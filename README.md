@@ -1,6 +1,6 @@
 # Artigos selecionados 
 
-| # | Título | Ano-Mês | Autor<sup>1</sup> | Citações<sup>2</sup> | Revista | JCR/2016<sup>3</sup> | Qualis<sup>4</sup> | Link |
+| # | Título | Ano-Mês | Autor<sup>[1](#s1)</sup> | Citações<sup>[2](#s2)</sup> | Revista | JCR/2016<sup>[3](#s3)</sup> | Qualis<sup>[4](#s4)</sup> | Link |
 |---|---|---|---|---|---|---|---|---|
 | 01 | Geospatial Big Data Handling Theory and Methods: A Review and Research Challenges | 2016/05 | Songnian Li | 57 | ISPRS Journal of Photogrammetry and Remote Sensing | 6.387 | A1/INT | [Link](https://doi.org/10.1016/j.isprsjprs.2015.10.012)
 | 01 | The Australian Geoscience Data Cube - Foundations and lessons learned | 2017/03 | Adam Lewis | 4 | Remote Sensing of Environment | 6.265 | B1/CC, A1/INT | [Link](https://doi.org/10.1016/j.rse.2017.03.015) |
@@ -11,13 +11,13 @@
 | 03 | Google Earth Engine: Planetary-scale geospatial analysis for everyone | 2017/06 | Noel Gorelick | 7 | Remote Sensing of Environment | 6.265 | B1/CC, A1/INT | [Link](https://doi.org/10.1016/j.rse.2017.06.031) |
 | 04 | A Spatial Data Infrastructure Integrating Multisource Heterogeneous Geospatial Data and Time Series: A Study Case in Agriculture | 2016/ 01 | Gloria Bordogna | 5 |  	ISPRS International Journal of Geo-Information | 1.502 | B3/CC, B1/CA | [Link](http://dx.doi.org/10.3390/ijgi5050073) |
 
-<sup>1</sup>Primeiro autor
+<sup><a id="s1">1</a></sup>Primeiro autor
 
-<sup>2</sup>Número de vezes que o artigo foi citado segundo o [Google Scholar](https://scholar.google.com.br/)
+<sup><a id="s2">2</a></sup>Número de vezes que o artigo foi citado segundo o [Google Scholar](https://scholar.google.com.br/)
 
-<sup>3</sup> [Fator de Impacto (JCR/ 2016)](https://www.elsevier.com/catalog?producttype=journals) da Revista
+<sup><a id="s3">3</a></sup> [Fator de Impacto (JCR/ 2016)](https://www.elsevier.com/catalog?producttype=journals) da Revista
 
-<sup>4</sup>[Classificação Qualis Quadriênio 2013-2016](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf) da Revista 
+<sup><a id="s4">4</a></sup>[Classificação Qualis Quadriênio 2013-2016](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf) da Revista 
 
 
 Áreas de Avaliação Qualis
